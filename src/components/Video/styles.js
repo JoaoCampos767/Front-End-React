@@ -14,8 +14,10 @@ export const Container = styled.div`
     justify-content: space-evenly;
     align-items: center;
 
-    h1{
+    h2{
         color: #1e1e1e;
+        font-size: 1rem;
+        text-align: center;
     }
 
     a{
